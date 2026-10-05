@@ -15,3 +15,11 @@ A small Python tool that reads a CSV file of orders and builds a sales report.
 3. Enter the threshold when asked (for example `1000000`)
 
 ## Example input
+ 
+    customer,amount
+    Ali,1200000
+    Reza,2300000
+    Sara,450000
+
+## Built with
+Python (standard library only: `csv`)
